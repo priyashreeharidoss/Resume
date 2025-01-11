@@ -139,9 +139,13 @@ body{
         font-size: xx-small;
         width: fit-content;
     }
+    .left-section h2,.right-section h2{
+        font-size: medium;
+    }
     .header-content i{
         font-size: 10px;
     }
+    
     .profie-image {
         width: calc(10% + 80px); 
         height: calc(10% + 80px);
